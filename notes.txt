@@ -1,0 +1,4 @@
+3 keydown fuctions left (function draw)
+(Logo Start Restart Gameover(function setup))
+
+Power up button (function Powerup(make after function draw))
